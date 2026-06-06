@@ -130,15 +130,15 @@ Paste this template and fill in your locations and budget:
 	"locations": {
 		"partner_work": {
 			"name": "The Curve, Mutiara Damansara",
-			"lat": <REDACTED_LAT>,
-			"lng": <REDACTED_LNG>,
+			"lat": "<REDACTED_LAT>",
+			"lng": "<REDACTED_LNG>",
 			"weight": 5,
 			"max_minutes": 15
 		},
 		"my_work": {
 			"name": "My Office",
-			"lat": <REDACTED_LAT>,
-			"lng": <REDACTED_LNG>,
+			"lat": "<REDACTED_LAT>",
+			"lng": "<REDACTED_LNG>",
 			"weight": 2,
 			"max_minutes": 30
 		}
