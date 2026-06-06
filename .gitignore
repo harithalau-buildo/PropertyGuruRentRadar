@@ -1,0 +1,12 @@
+config/cookies.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+config/criteria.json
+reviews_cache.json
+drive_times_cache.json
+enriched.json
+results.json
+.env
+.vscode/
